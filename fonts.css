@@ -1,0 +1,81 @@
+/* Universal Sans web fonts for Figma Sites */
+
+@font-face {
+  font-family: "Universal Sans:Thin";
+  src: url("./fonts/Universal-Sans-Text-Thin.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans:Light";
+  src: url("./fonts/Universal-Sans-Text-Light.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans:Regular";
+  src: url("./fonts/Universal-Sans-Text-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans:Medium";
+  src: url("./fonts/Universal-Sans-Text-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans:Bold";
+  src: url("./fonts/Universal-Sans-Text-Bold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans Display:Thin";
+  src: url("./fonts/Universal-Sans-Display-Thin.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans Display:Light";
+  src: url("./fonts/Universal-Sans-Display-Light.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans Display:Regular";
+  src: url("./fonts/Universal-Sans-Display-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans Display:Medium";
+  src: url("./fonts/Universal-Sans-Display-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Universal Sans Display:Bold";
+  src: url("./fonts/Universal-Sans-Display-Bold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
